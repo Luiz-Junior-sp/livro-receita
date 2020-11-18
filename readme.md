@@ -21,11 +21,4 @@
 
 
 
-Receita Pave
-
-
-
-<iframe frameborder="0" src="https://ff214425fbbae3af16e83a09d6207038.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html" id="google_ads_iframe_/21636860837/TudoGostoso/Content_4" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="300" height="250" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="b" data-load-complete="true" style="box-sizing: border-box; border: 0px; vertical-align: bottom;"></iframe>
-
-## 
-
+Receita Pave gostoso
