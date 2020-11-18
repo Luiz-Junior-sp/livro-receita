@@ -21,4 +21,4 @@
 
 
 
-Receita Pavê com bolacha champanhe
+Receita Pavê com bolacha
